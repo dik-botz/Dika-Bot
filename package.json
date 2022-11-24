@@ -1,5 +1,5 @@
 {
-  "name": "weabot",
+  "name": "DIKA-BOT",
   "version": "1.0.0",
   "description": "Wea Bot 2.0",
   "main": "index.js",
@@ -14,7 +14,7 @@
   "keywords": [
     "WhatsAppBot"
   ],
-  "author": "MhankBarBar",
+  "author": "BAngDhika",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "axios": "^0.23.0",
